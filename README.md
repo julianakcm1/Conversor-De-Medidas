@@ -1,6 +1,9 @@
 # Conversor-De-Medidas
-Imersão Dev Alura
+## Imersão Dev Alura
 
+Como parte do desafio, foram feitas:
+- :zap: Conversões utilizando Anos-Luz (Metros e Quilômetros) :zap:
+- Conversões a mais que a demonstração (Dólar :dollar:, Euro :euro:, Libra :pound:)
 
 <div align="center">
 
