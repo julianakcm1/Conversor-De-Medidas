@@ -44,10 +44,3 @@ body > img {
 img {
   max-height: 250px;
 }
-
-.astronaut {
-  max-height: 300px;
-  margin-top: 70px;
-  border-radius: 20px;
-  opacity: 0.8;
-}
